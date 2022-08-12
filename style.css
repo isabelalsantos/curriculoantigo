@@ -4,18 +4,22 @@ body {
 }
 
 .top-buffer { 
-    margin-top:50px;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
 
+.fade-in-image { 
+    animation: fadeIn 5s;
      }
 
 .margin {
-    margin-left: 5px;
+    margin-left: 0px;
     margin-right: 100px;
 }
 
 .card{
     padding: 2em 2em 2em;
-    box-shadow: 0 1px 10px #FCE5F9;
+    box-shadow: 0 1px 1px #000000;
 }
 
 .card-header{
